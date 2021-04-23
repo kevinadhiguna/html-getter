@@ -27,3 +27,5 @@ This is how this app works :<br />
 ## Note :
 
 I am not responsible for any misuse, please use this wisely.
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/html-getter)](https://github.com/kevinadhiguna)

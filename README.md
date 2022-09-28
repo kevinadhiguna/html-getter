@@ -28,4 +28,5 @@ This is how this app works :<br />
 
 I am not responsible for any misuse, please use this wisely.
 
-[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/html-getter)](https://github.com/kevinadhiguna)
+
+![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=html-getter&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
